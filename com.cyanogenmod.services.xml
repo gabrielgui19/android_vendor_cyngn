@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+	<allow-permission name="android.permission.CAPTURE_VIDEO_OUTPUT" sharedUserId="com.cyanogenmod.uid.cms"/>
+	<allow-permission name="android.permission.CAPTURE_SECURE_VIDEO_OUTPUT" sharedUserId="com.cyanogenmod.uid.cms"/>
+</permissions>
