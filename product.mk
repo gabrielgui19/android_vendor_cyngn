@@ -1,3 +1,3 @@
-# CyanogenMod Mobile Services
 PRODUCT_PACKAGES += \
-    com.cyngn.updater.xml
+    com.cyngn.updater.xml \
+    com.nextbit.android.xml
